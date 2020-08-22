@@ -10,5 +10,5 @@ Here you first choose a permutation of teams at random. Fixing this sequence, in
 
 ## Minimize Cumulative Regret
 
-An integer program to minimize the cumulative regret of all students, where regret of team i = the preference index of the allotted object (case). 
+An integer program to minimize the cumulative regret of all students, where regret of team $$i$$ = the preference index of the allotted object (case). 
 
